@@ -47,8 +47,8 @@ The system detects when objects appear and disappear, assigns unique IDs, and lo
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/real-time-object-detection.git
-cd real-time-object-detection
+git clone https://github.com/adyanandi/RealTime-Object-Detection
+cd realTime-Object-Detection
 ```
 Create a virtual environment (optional but recommended):
 ```bash
